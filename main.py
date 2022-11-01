@@ -1,3 +1,4 @@
+# from "https://cbsepython.in/industrial-gate-management-system-python-project/" and some over written by me.
 # creating a database for industrial gate management system
 # importing mysql.connector
 import datetime
